@@ -23,5 +23,7 @@
 
 ## HOW TO RUN
 > poetry install
+
 > make config.json
+
 > python main.py
