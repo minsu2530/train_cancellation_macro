@@ -1,6 +1,6 @@
 # 추석에 집가자
 
-취소표 잡아서 집가려는 사람의 대충 만든 프로그램
+취소표 잡아서 집가려는 사람들을 위하여..
 
 - https://github.com/ryanking13/SRT
 - https://github.com/carpedm20/korail2
