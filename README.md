@@ -14,10 +14,10 @@
     "platform": "ktx | srt",
     "id": <srt_id>,
     "password": <srt_password>,
-    "departure_loc": "수서",
-    "arrival_loc": "광주송정",
-    "date": "20240914",
-    "time": "0700",
+    "departure_loc": <출발지>,
+    "arrival_loc": <도착지>,
+    "date": <reserve_start_date, 20240914>,
+    "time": <reserve_start_time, 070000>,
     "discord_webhook": <webhook_url>
 }
 ```
