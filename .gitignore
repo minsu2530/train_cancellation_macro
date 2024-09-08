@@ -1,0 +1,4 @@
+.vscode
+venv
+nohup.out
+config.json

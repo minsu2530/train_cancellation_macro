@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "srt-cancellation-ticket"
+version = "0.1.0"
+description = ""
+authors = ["minsu.jeon"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+srtrain = "^2.5.0"
+pydantic = "^2.8.2"
+pydantic-config = "^0.3.0"
+korail2 = "^0.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
