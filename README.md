@@ -12,8 +12,8 @@
 ```json
 {
     "platform": "ktx | srt",
-    "id": <srt_id>,
-    "password": <srt_password>,
+    "id": <id>,
+    "password": <password>,
     "departure_loc": <출발지>,
     "arrival_loc": <도착지>,
     "date": <reserve_start_date, 20240914>,
